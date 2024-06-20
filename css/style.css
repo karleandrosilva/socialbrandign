@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+
+    margin: 0;
+    padding: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+header, main {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    padding: 0px;
+    margin: 0px;
+    background-color: blue;
+    
+}
